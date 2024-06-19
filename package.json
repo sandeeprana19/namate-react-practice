@@ -1,0 +1,23 @@
+{
+  "name": "namate-react-practice",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Sandeep Rana",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeeprana19/namate-react-practice.git"
+  },
+  "keywords": [],
+  "author": "Sandeep Rana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeeprana19/namate-react-practice/issues"
+  },
+  "homepage": "https://github.com/sandeeprana19/namate-react-practice#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
